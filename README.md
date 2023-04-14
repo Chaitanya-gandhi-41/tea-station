@@ -2,9 +2,10 @@
 
 Tea Station is a responsive website for a tea selling shop built using HTML, CSS, and JavaScript. The website has a neat and clean design, offering a pleasant user interface to the customers. It consists of Home, About, Products, and Skills pages. The Contact Us page has a form that is completed using Formspree.
 
-<p align="center">
-  <img src="images/demo.png" alt="demo" width="800" />
-</p>
+![image](https://user-images.githubusercontent.com/115097449/232113934-23127e21-f3fc-4a9e-8243-c9d2e7d964ed.png)
+![image](https://user-images.githubusercontent.com/115097449/232113941-9f6a9186-f6a1-4a2f-a8a9-49d150b1fa0b.png)
+![image](https://user-images.githubusercontent.com/115097449/232113951-d33dfb5e-d175-4b48-9c2d-b2e3c0dcc595.png)
+
 
 ## Demo
 
