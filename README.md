@@ -2,6 +2,10 @@
 
 Tea Station is a responsive website for a tea selling shop built using HTML, CSS, and JavaScript. The website has a neat and clean design, offering a pleasant user interface to the customers. It consists of Home, About, Products, and Skills pages. The Contact Us page has a form that is completed using Formspree.
 
+<p align="center">
+  <img src="images/demo.png" alt="demo" width="800" />
+</p>
+
 ## Demo
 
 You can visit the website live here: <a href="https://aaeb-teastation.netlify.app/">Tea Station</a>
